@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug -I/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes -I/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug/demo_themes_autogen/include -isystem /usr/include/qt5 -isystem /usr/include/qt5/QtWidgets -isystem /usr/include/qt5/QtGui -isystem /usr/include/qt5/QtCore -isystem /usr/lib64/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++17 -o CMakeFiles/demo_themes.dir/demo_themes_autogen/mocs_compilation.cpp.o -c /home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug/demo_themes_autogen/mocs_compilation.cpp",
+  "file": "/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug/demo_themes_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug -I/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes -I/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug/demo_themes_autogen/include -isystem /usr/include/qt5 -isystem /usr/include/qt5/QtWidgets -isystem /usr/include/qt5/QtGui -isystem /usr/include/qt5/QtCore -isystem /usr/lib64/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++17 -o CMakeFiles/demo_themes.dir/main.cpp.o -c /home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/main.cpp",
+  "file": "/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/main.cpp"
+},
+{
+  "directory": "/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug -I/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes -I/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug/demo_themes_autogen/include -isystem /usr/include/qt5 -isystem /usr/include/qt5/QtWidgets -isystem /usr/include/qt5/QtGui -isystem /usr/include/qt5/QtCore -isystem /usr/lib64/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++17 -o CMakeFiles/demo_themes.dir/mainwindow.cpp.o -c /home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/mainwindow.cpp",
+  "file": "/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/mainwindow.cpp"
+},
+{
+  "directory": "/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug -I/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes -I/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug/demo_themes_autogen/include -isystem /usr/include/qt5 -isystem /usr/include/qt5/QtWidgets -isystem /usr/include/qt5/QtGui -isystem /usr/include/qt5/QtCore -isystem /usr/lib64/qt5/mkspecs/linux-g++ -g -fPIC -std=gnu++17 -o CMakeFiles/demo_themes.dir/demo_themes_autogen/EWIEGA46WW/qrc_images.cpp.o -c /home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug/demo_themes_autogen/EWIEGA46WW/qrc_images.cpp",
+  "file": "/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug/demo_themes_autogen/EWIEGA46WW/qrc_images.cpp"
+}
+]

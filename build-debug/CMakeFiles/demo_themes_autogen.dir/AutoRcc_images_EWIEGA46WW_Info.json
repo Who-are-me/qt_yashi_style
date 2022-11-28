@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug/demo_themes_autogen",
+	"CMAKE_BINARY_DIR" : "/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes",
+	"CMAKE_SOURCE_DIR" : "/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes",
+	"INCLUDE_DIR" : "/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug/demo_themes_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/down_arrow.png",
+		"/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/handle.png"
+	],
+	"LOCK_FILE" : "/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug/CMakeFiles/demo_themes_autogen.dir/AutoRcc_images_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "images" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_images.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib64/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug/CMakeFiles/demo_themes_autogen.dir/AutoRcc_images_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/images.qrc",
+	"VERBOSITY" : 0
+}

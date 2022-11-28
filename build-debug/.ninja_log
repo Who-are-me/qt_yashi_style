@@ -1,0 +1,19 @@
+# ninja log v5
+5	233	1668883281897650859	demo_themes_autogen/timestamp	3c8acbcc1ab1e3d8
+5	233	1668883281897650859	demo_themes_autogen/mocs_compilation.cpp	3c8acbcc1ab1e3d8
+5	233	1668883281897650859	/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug/demo_themes_autogen/timestamp	3c8acbcc1ab1e3d8
+5	233	1668883281897650859	/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug/demo_themes_autogen/mocs_compilation.cpp	3c8acbcc1ab1e3d8
+233	1245	1668883282925653374	CMakeFiles/demo_themes.dir/demo_themes_autogen/mocs_compilation.cpp.o	7e4031689032f5c3
+234	1354	1668883283033653638	CMakeFiles/demo_themes.dir/mainwindow.cpp.o	f5f359c29fa84156
+233	1379	1668883283061653707	CMakeFiles/demo_themes.dir/main.cpp.o	9e25d8fc2bd030a7
+4	253	1668885314768014698	demo_themes	9620447ae05cc5fb
+2	203	1669173391589110022	demo_themes_autogen/timestamp	3c8acbcc1ab1e3d8
+2	203	1669173391589110022	demo_themes_autogen/mocs_compilation.cpp	3c8acbcc1ab1e3d8
+2	203	1669173391589110022	/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug/demo_themes_autogen/timestamp	3c8acbcc1ab1e3d8
+2	203	1669173391589110022	/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug/demo_themes_autogen/mocs_compilation.cpp	3c8acbcc1ab1e3d8
+203	216	1669173391617110143	demo_themes_autogen/EWIEGA46WW/qrc_images.cpp	d0a46c06d745ec2f
+203	216	1669173391617110143	/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug/demo_themes_autogen/EWIEGA46WW/qrc_images.cpp	d0a46c06d745ec2f
+217	265	1669173391669110367	CMakeFiles/demo_themes.dir/demo_themes_autogen/EWIEGA46WW/qrc_images.cpp.o	a94bf14933be1d1d
+216	1174	1669173392577114284	CMakeFiles/demo_themes.dir/demo_themes_autogen/mocs_compilation.cpp.o	7e4031689032f5c3
+217	1537	1669173392941115856	CMakeFiles/demo_themes.dir/mainwindow.cpp.o	f5f359c29fa84156
+1537	1781	1669173393181116891	demo_themes	6ba3ee5fc2081da4
