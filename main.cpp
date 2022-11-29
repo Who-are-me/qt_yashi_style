@@ -8,7 +8,9 @@
 int main(int argc, char *argv[]) {
     QApplication application(argc, argv);
     MainWindow w_main;
+
     // TODO edit absolute path to file
+
 #ifdef Q_OS_LINUX
     QFile file_theme("/home/forever/Projects/Qt/demo_themes/dev.qss");
 #else

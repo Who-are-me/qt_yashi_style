@@ -29,10 +29,9 @@ QWidget:focus {
     border: 1px solid #EEE0B7;
     border-radius: 5px;
 }
-QWidget::QTabWidget:focus {
-    border: 0px solid #EEE0B7;
+QWidget::QTabBar:focus {
+    border: 19px solid #EEE0B7;
 }
-
 
 /* QMenuBar */
 
@@ -57,6 +56,9 @@ QMenuBar::item:pressed {
     margin-bottom:-1px;
     padding-bottom:1px;
 }
+
+
+/* QMenu */
 
 QMenu {
     border: 1px solid #000;
@@ -85,6 +87,9 @@ QLineEdit {
     border-radius: 5;
 }
 
+
+/* QPushButton */
+
 QPushButton {
     color: #b1b1b1;
     background-color: #4E4E4E;
@@ -97,7 +102,6 @@ QPushButton {
     padding-left: 5px;
     padding-right: 5px;
 }
-
 QPushButton:pressed {
     background-color: #606060;
 }
@@ -141,11 +145,18 @@ QComboBox::down-arrow {
 
 
 
+/* QGroupBox */
 
+QGroupBox {
+
+}
 QGroupBox:focus {
-	border: 2px solid QLinearGradient( x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #EEE0B7, stop: 1 #EEE0B7);
+    border: 2px solid #EEE0B7;
 }
 
+
+
+/* QTreeView */
 
 QTreeView {
 	background-color: #252024;
@@ -153,14 +164,16 @@ QTreeView {
 
 
 
+/* QColumnView */
+
 QColumnView {
-        background-color: #252024;
+    background-color: #252024;
 }
 
 
 
 QTextEdit:focus {
-    border: 1px solid QLinearGradient( x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #EEE0B7, stop: 1 #EEE0B7);
+    border: 1px solid #EEE0B7;
 }
 
 QScrollBar:horizontal {
@@ -237,14 +250,14 @@ QScrollBar::sub-line:vertical {
 }
 
 QScrollBar::up-arrow:vertical, QScrollBar::down-arrow:vertical {
-      border: 1px solid black;
-      width: 1px;
-      height: 1px;
-      background: white;
+    border: 1px solid black;
+    width: 1px;
+    height: 1px;
+    background: white;
 }
 
 QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
-      background: none;
+    background: none;
 }
 
 QTextEdit {
@@ -255,12 +268,18 @@ QPlainTextEdit {
     background-color: #2b2b2b;
 }
 
+
+
+
 QHeaderView::section {
-    background-color: QLinearGradient(x1:0, y1:0, x2:0, y2:1, stop:0 #606060, stop: 0.5 #505050, stop: 0.6 #434343, stop:1 #656565);
+    background-color: #606060;
     color: white;
     padding-left: 4px;
     border: 1px solid #6c6c6c;
 }
+
+
+
 
 QCheckBox:disabled {
     color: #414141;
@@ -411,7 +430,7 @@ QTabBar::tab {
 }
 QTabBar::tab:!last {
     border-right: 1px solid;
-    border-right-color: #EEE0B7;
+    border-right-color: #393538;
     /*border-bottom-color: #c0c0c0;*/
 }
 QTabBar::tab:first {

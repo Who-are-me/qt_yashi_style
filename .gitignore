@@ -1,2 +1,7 @@
 *build*
+build-debug
+build-release
+*kdev*
+*.txt.user*
+.directory
 
