@@ -10,7 +10,7 @@ MainWindow::MainWindow(QWidget *parent)
 {
     ui->setupUi(this);
 
-    QStringList list=(QStringList()<<"red"<<"yellow"<<"blue");
+    QStringList list = (QStringList() << "red" << "yellow" << "blue");
     ui->comboBox->addItems(list);
 }
 
