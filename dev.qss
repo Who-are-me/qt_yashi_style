@@ -631,7 +631,9 @@ QSpinBox::down-button {
         background-color: #393538;
 }
 
-
+QSizeGrip {
+        image: url(:/images/transform-browse.svg);
+}
 
 
 
