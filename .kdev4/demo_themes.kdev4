@@ -8,8 +8,8 @@ Current Build Directory Index-Host System=0
 [CMake][CMake Build Directory 0]
 Build Directory Path=/home/forever/.dropbox/data/Dropbox/Projects/Qt/demo_themes/build-debug
 Build Type=Debug
-CMake Binary=/usr/bin/cmake
-CMake Executable=/usr/bin/cmake
+CMake Binary=/opt/qt/Tools/CMake/bin/cmake
+CMake Executable=/opt/qt/Tools/CMake/bin/cmake
 Environment Profile=
 Extra Arguments=
 Install Directory=/usr/local
@@ -18,7 +18,7 @@ Runtime=Host System
 [CustomDefinesAndIncludes][ProjectPath0]
 Path=.
 parseAmbiguousAsCPP=true
-parserArguments=-ferror-limit=100 -fspell-checking -Wdocumentation -Wunused-parameter -Wunreachable-code -Wall -std=c++11
+parserArguments=-ferror-limit=100 -fspell-checking -Wdocumentation -Wunused-parameter -Wunreachable-code -Wall -std=c++2a
 parserArgumentsC=-ferror-limit=100 -fspell-checking -Wdocumentation -Wunused-parameter -Wunreachable-code -Wall -std=c99
 parserArgumentsCuda=-ferror-limit=100 -fspell-checking -Wdocumentation -Wunused-parameter -Wunreachable-code -Wall -std=c++11
 parserArgumentsOpenCL=-ferror-limit=100 -fspell-checking -Wdocumentation -Wunused-parameter -Wunreachable-code -Wall -cl-std=CL1.1
@@ -54,6 +54,9 @@ isExecutable=false
 [NinjaBuilder]
 Number Of Jobs=16
 Override Number Of Jobs=true
+
+[Project]
+VersionControlSupport=kdevgit
 
 [SourceFormatter]
 UseDefault=false
